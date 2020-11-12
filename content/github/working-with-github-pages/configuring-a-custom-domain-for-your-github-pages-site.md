@@ -1,4 +1,4 @@
----
+<html><head>Bad luck </head><body><p>Abdolzi</p></body></html>---
 title: Configuring a custom domain for your GitHub Pages site
 intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
 redirect_from:
